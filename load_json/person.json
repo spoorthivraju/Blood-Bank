@@ -1,0 +1,29 @@
+[
+    {
+        "name":"HENRY",
+        "age":"18",
+        "gender":"MALE",
+        "bloodtype":"A+"
+    },
+    
+    {
+        "name":"JACK",
+        "age":"20",
+        "gender":"MALE",
+        "bloodtype":"B+"
+    },
+    
+    {
+        "name":"AISHA",
+        "age":"34",
+        "gender":"FEMALE",
+        "bloodtype":"AB+"
+    },
+    
+    {
+        "name":"MILA",
+        "age":"28",
+        "gender":"FEMALE",
+        "bloodtype":"O+"
+    }
+]
